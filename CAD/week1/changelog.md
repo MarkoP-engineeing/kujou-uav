@@ -5,6 +5,7 @@ The segments include:
 - Wing-standard-segment - the standard segment. 4 of these will have to be printed. One will go between the aileron and the mounting segment and the other will be on the tip.
 - Wing-aileron-segment - the segment containing the aileron. Intended to print in one piece with the whole wing. Includes special print modifier for hte hinge part.
 I also modeled special modifier to be used inside of slicing software to change settings like infil percentage and wall count in places where it is needed.
+
 The modifiers include:
 - Modifier-ribs - this modifier is applied to every segment and should be set to 25% triangle infil, 1 wall, no top and bottomm layers. This should create ribs printable throughout the wing without the use of solid layers.
 - Modifier-I-profile - this modifier is applied to every segment and should create the I-beam profile inside the wing that will lie in between the carbon spars. It should be set to 100% infil.
